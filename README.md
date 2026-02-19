@@ -62,6 +62,8 @@ These tools enabled end-to-end analysis, from data exploration to cluster modeli
 
 ---
 ## 📁 Folder Structure
+
+```
 Customer-Segmentation-Project/
 │
 ├── data/
@@ -77,5 +79,6 @@ Customer-Segmentation-Project/
 │
 ├── README.md
 └── requirements.txt
+```
 
 ---
