@@ -45,3 +45,19 @@ The dataset contains information about mall customers, including the following c
 This dataset serves as the basis for exploratory analysis and K-Means clustering to identify customer segments.
 
 ---
+
+<h2 id="tools-and-technologies">🛠️ Tools & Technologies</h2>
+
+- Python – Programming language for data analysis
+
+- Jupyter Notebook – Development environment for interactive coding
+
+- Pandas – Data manipulation and preprocessing
+
+- Matplotlib & Seaborn – Data visualization
+
+- Scikit-learn – K-Means clustering, StandardScaler, One-Hot Encoding
+
+These tools enabled end-to-end analysis, from data exploration to cluster modeling and visualization.
+
+---
