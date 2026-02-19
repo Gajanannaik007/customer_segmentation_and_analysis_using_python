@@ -98,3 +98,17 @@ Customer-Segmentation-Project/
 These steps ensured the dataset was clean, consistent, and ready for EDA and K-Means clustering.
 
 ---
+
+<h2 id="libraries-used">📚 Libraries Used & Their Purpose</h2>
+
+1. Pandas :	Data loading, manipulation, preprocessing
+
+2. Matplotlib :	Plotting distributions, scatter plots, clusters
+
+3. Seaborn :	Statistical visualizations (histograms, KDE, pairplots, heatmaps)
+
+4. Scikit-learn :	K-Means clustering, StandardScaler, One-Hot Encoding
+
+These libraries provided all tools required for analysis, visualization, preprocessing, and clustering.
+
+---
