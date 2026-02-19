@@ -13,8 +13,9 @@ A data-driven customer segmentation project using K-Means clustering to uncover 
 - 💡 [Key Insights & Recommendations](#key-insights--recommendations)
 - 🔗 [References](#references)
 - 👨‍💻 [Author & Contact](#author--contact)
-
+---
 ## 🔎 Project Overview
 
 This project performs customer segmentation using K-Means clustering to group customers based on spending behavior and income levels. The analysis includes data cleaning, exploratory data analysis (EDA), and cluster visualization to generate actionable business insights.
 The project covers the complete data analysis workflow — including data cleaning, exploratory data analysis (EDA), feature selection, optimal cluster identification using the Elbow Method, and visualization of customer groups. By applying unsupervised machine learning techniques, the analysis reveals meaningful patterns within the dataset and provides actionable business insights.
+---
