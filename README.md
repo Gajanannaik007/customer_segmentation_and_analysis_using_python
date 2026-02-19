@@ -27,3 +27,21 @@ The company lacks a structured way to segment customers based on purchasing beha
 Businesses often treat all customers the same, using uniform marketing strategies without understanding differences in customer behavior. However, customers vary significantly in terms of purchasing patterns, income levels, and spending habits.
 
 ---
+
+<h2 id="dataset">📂 Dataset</h2>
+
+The dataset contains information about mall customers, including the following columns:
+
+- CustomerID – Unique identifier for each customer
+
+- Gender – Male or Female
+
+- Age – Customer’s age in years
+
+- Annual Income (k$) – Yearly income in thousands of dollars
+
+- Spending Score (1–100) – A score representing customer spending behaviour
+
+This dataset serves as the basis for exploratory analysis and K-Means clustering to identify customer segments.
+
+---
