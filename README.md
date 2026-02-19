@@ -61,7 +61,7 @@ This dataset serves as the basis for exploratory analysis and K-Means clustering
 These tools enabled end-to-end analysis, from data exploration to cluster modeling and visualization.
 
 ---
-
+## 📁 Folder Structure
 Customer-Segmentation-Project/
 │
 ├── data/
