@@ -133,6 +133,8 @@ It involves understanding the dataset, visualizing patterns, and applying K-Mean
      - Females → higher mean spending
 
      - Males → slightly higher income
+## 📊 Annual Income Distribution
 
-![Annual Income Distribution](Images/Annual_income.png)
+![Annual Income Distribution](Images/Annual%20income.png)
+
 
