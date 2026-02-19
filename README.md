@@ -112,3 +112,9 @@ These steps ensured the dataset was clean, consistent, and ready for EDA and K-M
 These libraries provided all tools required for analysis, visualization, preprocessing, and clustering.
 
 ---
+
+<h2 id="eda-clustering">📊 Exploratory Data Analysis (EDA) & Clustering</h2>
+
+It involves understanding the dataset, visualizing patterns, and applying K-Means clustering to segment customers for actionable insights.
+
+---
