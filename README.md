@@ -134,3 +134,4 @@ It involves understanding the dataset, visualizing patterns, and applying K-Mean
 
      - Males → slightly higher income
 
+![Annual Income Distribution](Images/annual_income.png)
