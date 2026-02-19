@@ -61,3 +61,21 @@ This dataset serves as the basis for exploratory analysis and K-Means clustering
 These tools enabled end-to-end analysis, from data exploration to cluster modeling and visualization.
 
 ---
+
+Customer-Segmentation-Project/
+│
+├── data/
+│   └── Mall_Customers.csv
+│
+├── notebooks/
+│   └── customer_segmentation.ipynb
+│
+├── images/
+│   ├── elbow_method.png
+│   ├── cluster_visualization.png
+│   └── pairplot.png
+│
+├── README.md
+└── requirements.txt
+
+---
