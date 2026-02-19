@@ -99,7 +99,7 @@ These steps ensured the dataset was clean, consistent, and ready for EDA and K-M
 
 ---
 
-<h2 id="libraries-used">📚 Libraries Used & Their Purpose</h2>
+<h2 id="libraries-used">📚 Libraries Used</h2>
 
 1. Pandas :	Data loading, manipulation, preprocessing
 
