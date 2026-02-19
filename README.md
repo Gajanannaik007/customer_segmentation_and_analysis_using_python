@@ -82,3 +82,19 @@ Customer-Segmentation-Project/
 ```
 
 ---
+
+<h2 id="data-cleaning-preparation">🧹 Data Cleaning & Preparation</h2>
+
+- Missing Values: Checked for nulls and ensured the dataset was complete with no missing entries.
+
+- Data Types: Verified and corrected data types for accurate analysis (numerical vs categorical).
+
+- Duplicate Records: Identified and removed duplicates.
+
+- Feature Selection: Selected Age, Income, Spending Score, Gender for clustering.
+
+- Preprocessing: Applied StandardScaler and One-Hot Encoding for advanced multivariate clustering.
+
+These steps ensured the dataset was clean, consistent, and ready for EDA and K-Means clustering.
+
+---
