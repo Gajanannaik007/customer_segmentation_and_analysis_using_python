@@ -254,6 +254,8 @@ Cluster Summary & Marketing Recommendations
 Overall Takeaways:
 K-Means successfully segmented customers into five actionable groups Enables targeted marketing and resource optimization
 
+---
+
 <h2 id="references">📚 References</h2>
 
 Dataset Source: Mall Customer Segmentation Dataset obtained from AbsentData
