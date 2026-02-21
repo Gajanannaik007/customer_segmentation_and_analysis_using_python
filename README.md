@@ -176,6 +176,47 @@ It involves understanding the dataset, visualizing patterns, and applying K-Mean
 
 ![dashboard](Images/image11.png)
 
+# Determining Optimal Clusters (Elbow Method) :
+
+- Calculated inertia for k = 1 to 10
+
+- Elbow at k = 5 → optimal number of clusters
+
+- Used for bivariate clustering (Income + Spending Score)
+
+# K-Means Clustering Implementation :
+
+- Univariate Clustering
+
+    - Applied only on Annual Income
+
+    - Elbow → 3 clusters (low, medium, high income)
+
+- Bivariate Clustering (Main Model)
+
+     - Applied on Annual Income + Spending Score
+
+     - k = 5
+
+     - Resulting clusters:
+
+       - High Income – High Spending
+
+       - Low Income – High Spending
+
+       - High Income – Low Spending
+
+       - Low Income – Low Spending
+
+       - Medium Income – Medium Spending
+
+- Multivariate Clustering
+
+     - Added Age + Gender features
+
+     - Applied StandardScaler + One-Hot Encoding
+
+     - Prepared dataset for advanced clustering possibilities
 
 
 
