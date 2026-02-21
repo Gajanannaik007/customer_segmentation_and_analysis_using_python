@@ -150,6 +150,25 @@ It involves understanding the dataset, visualizing patterns, and applying K-Mean
 
 ![dashboard](Images/image8.png)
 
+---
+
+# Bivariate Analysis :
+
+- Scatter plots for relationships between variables
+
+- Annual Income vs Spending Score suggested natural clustering
+
+- Pairplots for multivariate visualization
+
+- Heatmap correlations:
+
+     Age ↘ Spending Score
+
+     Age ↘ Income
+
+     Income ↗ Spending = weak
+
+- Gender grouping for comparative metrics
 
 
 
