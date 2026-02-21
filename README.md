@@ -261,4 +261,15 @@ Dataset Source: Mall Customer Segmentation Dataset obtained from AbsentData
 
 ---
 
+## 👨‍💻 Author & Contact
+
+**Gajanan M Naik**  
+Aspiring Data Analyst  
+
+  - 📧 Email: [naikgajanan238@gmail.com](mailto:naikgajanan238@gmail.com)
+  - 💼 LinkedIn:[https://www.linkedin.com/in/gajanan-naik-4a8a08373/](https://www.linkedin.com/in/gajanan-naik-4a8a08373/)
+  - 🐙 GitHub: [https://github.com/Gajanannaik007](https://github.com/Gajanannaik007)
+
+
+---
 
