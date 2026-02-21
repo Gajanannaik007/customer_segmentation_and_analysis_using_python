@@ -150,7 +150,6 @@ It involves understanding the dataset, visualizing patterns, and applying K-Mean
 
 ![dashboard](Images/image8.png)
 
----
 
 # Bivariate Analysis :
 
@@ -217,6 +216,16 @@ It involves understanding the dataset, visualizing patterns, and applying K-Mean
      - Applied StandardScaler + One-Hot Encoding
 
      - Prepared dataset for advanced clustering possibilities
+![dashboard](Images/image12.png)
+
+![dashboard](Images/image13.png)
+
+![dashboard](Images/image14.png)
+
+![dashboard](Images/image15.png)
+
+---
+
 
 
 
