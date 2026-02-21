@@ -170,8 +170,11 @@ It involves understanding the dataset, visualizing patterns, and applying K-Mean
 
 - Gender grouping for comparative metrics
 
+![dashboard](Images/image9.png)
 
+![dashboard](Images/image10.png)
 
+![dashboard](Images/image11.png)
 
 
 
