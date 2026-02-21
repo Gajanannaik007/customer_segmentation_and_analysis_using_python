@@ -134,8 +134,12 @@ It involves understanding the dataset, visualizing patterns, and applying K-Mean
 
      - Males → slightly higher income
 
-![Annual Income Distribution](Images/Annual%20income.png)
+![Annual Income Distribution](Images/image1.png)
 
-![Age and Annual Income](Images/Age,Annual%20income.png)
+![Age and Annual Income](Images/image2.png)
+
+![Age and Annual Income](Images/image3.png)
+
+
 
 
