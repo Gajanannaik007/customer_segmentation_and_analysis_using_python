@@ -226,6 +226,39 @@ It involves understanding the dataset, visualizing patterns, and applying K-Mean
 
 ---
 
+<h2 id="key-insights">💡 Key Insights & Recommendations</h2>
+Cluster Summary & Marketing Recommendations
 
+
+1) High-Value Customers (Cluster 4) :
+     - High income, high spending, age ~32
+     - Focus: Premium campaigns, loyalty programs
+       
+
+2) Strategic Opportunity Customers (Cluster 2) :
+     - Low income, high spending, age ~25
+     - Focus: Promotional campaigns, aspirational products
+
+3) Low-Engagement Customers (Cluster 3) :
+    - High income, low spending, age ~41
+    - Focus: Personalized discounts, loyalty incentives
+
+4) Low-Value Customers (Cluster 1) :
+    - Low income, low spending, age ~45
+    - Focus: Minimal marketing allocation
+
+5) Average Customers (Cluster 0) :
+    - Medium income, medium spending, age ~43
+    - Focus: General promotions, occasional upselling
+
+Overall Takeaways:
+K-Means successfully segmented customers into five actionable groups Enables targeted marketing and resource optimization
+
+<h2 id="references">📚 References</h2>
+
+Dataset Source: Mall Customer Segmentation Dataset obtained from AbsentData
+🔗 https://absentdata.com/data-analysis/where-to-find-data
+
+---
 
 
